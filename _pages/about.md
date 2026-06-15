@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 110, Academic Building - 2.
+subtitle: <a href='#'>Assistant Professor</a>. 110, Academic Building - 2.
 
 profile:
   align: right

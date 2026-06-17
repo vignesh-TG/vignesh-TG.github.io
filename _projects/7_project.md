@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 7
+title: Corner Capillary Rise
 description: with background image
 img: assets/img/4.jpg
 importance: 1

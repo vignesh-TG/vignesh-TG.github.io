@@ -24,9 +24,18 @@ jobs:
       - name: Prettier Check 🔎
         id: prettier
         run: npx prettier . --check
+      - name: Auto-fix formatting on failure
+        if: ${{ failure() }}
+        run: |
+          npx prettier . --write
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "style: format code with Prettier" || echo "No changes to commit"
+          git push
       - name: Create diff 📝
         # https://docs.github.com/en/actions/learn-github-actions/expressions#failure
-        if: ${{ failure() }}
+        if: ${{ failure() && steps.prettier.conclusion == 'failure' }}
         run: |
           npx prettier . --write
           git diff -- . ':(exclude)package-lock.json' ':(exclude)package.json' > diff.txt

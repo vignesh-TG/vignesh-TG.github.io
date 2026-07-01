@@ -1,6 +1,7 @@
 ---
 layout: course
 title: Heat Transfer
-description: 
+description:
 year: 2025
 term: Jan-May
+---

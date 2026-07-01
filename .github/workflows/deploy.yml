@@ -72,7 +72,7 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
-          bundler: "2.5.6" 
+          bundler: "2.5.6"
       - name: Clear bundler cache
         run: |
           rm -rf vendor/bundle/ruby/3.3.0/cache/*

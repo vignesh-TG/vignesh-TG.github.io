@@ -26,10 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an Assistant Professor in the Department of Mechanical Engineering at IIT Tirupati. My research focuses on fluid mechanics, with particular emphasis on interfacial phenomena, capillary flows, drop dynamics, and Marangoni-driven transport. Through a combination of theoretical modeling, numerical simulations, and experimental investigations, I study complex multiphase flow systems relevant to microfluidics, inkjet printing, wetting processes, and soft matter physics. 
 
+I am an Assistant Professor at the Department of Mechanical Engineering, IIT Tirupati. I specialize in multiphase fluid flows, microfluidics, and complex interfacial phenomena. My research investigates single and compound drop dynamics, surface tension-driven Marangoni flows, and capillary wetting inside geometries like square tubes and open channels. To study these behaviors, I combine mathematical theory, physical experiments with high-speed imaging, and numerical computations. My primary computational tools include the Volume-of-Fluid (VOF) method and adaptive mesh refinement, implemented using simulation packages like Ansys Fluent and OpenFOAM.
 
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bib[...]
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones bel[...]

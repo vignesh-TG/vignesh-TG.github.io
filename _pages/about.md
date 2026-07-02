@@ -29,6 +29,6 @@ latest_posts:
 
 I am an Assistant Professor at the Department of Mechanical Engineering, IIT Tirupati. I specialize in multiphase fluid flows, microfluidics, and complex interfacial phenomena. My research investigates single and compound drop dynamics, surface tension-driven Marangoni flows, and capillary wetting inside geometries like square tubes and open channels. To study these behaviors, I combine mathematical theory, physical experiments with high-speed imaging, and numerical computations. My primary computational tools include the Volume-of-Fluid (VOF) method and adaptive mesh refinement, implemented using simulation packages like Ansys Fluent and OpenFOAM.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bib[...]
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `\_bib[...]
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones bel[...]

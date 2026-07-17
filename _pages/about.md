@@ -6,7 +6,7 @@ subtitle: <a href='#'>Assistant Professor</a>. Mechanical Engineering.
 
 profile:
   align: right
-  image: DSC_1749.JPG
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+91-8772593421</p>

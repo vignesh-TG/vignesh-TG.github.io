@@ -27,10 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<<<<<<< HEAD
 I am an Assistant Professor at the Department of Mechanical Engineering, IIT Tirupati. I specialize in surface tension dominated multiphase fluid flows and other complex interfacial phenomena. Some of my current research interests include corner capillary rise, Marangoni spreading, and inkjet printing. To study these behaviors, I combine mathematical theory, physical experiments, and numerical computations.
-=======
-
-I am an Assistant Professor at the Department of Mechanical Engineering, IIT Tirupati. I specialize in multiphase fluid flows, microfluidics, and complex interfacial phenomena. My research investigates single and compound drop dynamics, surface tension-driven Marangoni flows, and capillary wetting inside geometries like square tubes and open channels. To study these behaviors, I combine mathematical theory, physical experiments with high-speed imaging, and numerical computations. My primary computational tools include the Volume-of-Fluid (VOF) method and adaptive mesh refinement, implemented using simulation packages like Ansys Fluent and OpenFOAM.
-
-> > > > > > > 128b2cf65fa0b1c8f9e4391f017c3ccba9bda2ed

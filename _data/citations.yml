@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-07'
 papers:
   Rc1DpwoAAAAJ:0EnyYjriUFMC:
     citations: 1
     title: Complex Wave Packet Dynamics Induced by Marangoni Stresses
     year: '2025'
   Rc1DpwoAAAAJ:2osOgNQ5qMEC:
-    citations: 47
+    citations: 50
     title: Computations of spontaneous rise of a rivulet in a corner of a vertical square capillary
     year: '2018'
   Rc1DpwoAAAAJ:5nxA0vEk-isC:
@@ -46,6 +46,6 @@ papers:
     title: Forced wetting in a square capillary
     year: '2022'
   Rc1DpwoAAAAJ:u5HHmVD_uO8C:
-    citations: 20
+    citations: 19
     title: Noniterative interface reconstruction algorithms for volume of fluid method
     year: '2013'
